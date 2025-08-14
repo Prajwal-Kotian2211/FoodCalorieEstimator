@@ -4,5 +4,4 @@ A machine learning model that recognizes food items from images and estimates th
 
 This project was completed as part of my internship task.
 
-## 🔗 Colab Notebook
-[Open in Google Colab](https://colab.research.google.com/drive/1k-LcftzJ2fHE185Oz1S3ZZOF16D4lX_5)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k-LcftzJ2fHE185Oz1S3ZZOF16D4lX_5)
