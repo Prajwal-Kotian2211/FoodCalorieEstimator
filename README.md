@@ -1,4 +1,4 @@
-Food Recognition & Calorie Estimation
+ # Food Recognition & Calorie Estimation
 
 A machine learning model that recognizes food items from images and estimates their calorie content.
 
